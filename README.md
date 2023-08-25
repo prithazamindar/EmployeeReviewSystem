@@ -1,7 +1,7 @@
 # EmployeeReviewSystem
 ## FOLDER STRUCTURE:
-#|── |assets/
-#│   |      ├── css/
+##|── |assets/
+##│   |      ├── css/
 #│   |      ├── js/
 #│   |      ├── sass/
 #├── │config/
