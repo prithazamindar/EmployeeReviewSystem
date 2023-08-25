@@ -1,9 +1,9 @@
 # EmployeeReviewSystem
 ### FOLDER STRUCTURE:
 #### |── |assets/
-#####     │    ──    ├    ── css/
-#####     │    ──    ├    ── js/
-#####     │    ──    ├    ── sass/
+#####     │    ──    ├    ──    |css/
+#####     │    ──    ├    ──    | js/
+#####     │    ──    ├    ──    |sass/
 #### ├── │config/
 #### ├── │controllers/
 #### ├── │routes/
